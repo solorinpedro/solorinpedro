@@ -99,6 +99,10 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=solorinpedro&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br/>  
+
+
+<br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=psolorin-6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
