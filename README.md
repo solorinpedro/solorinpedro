@@ -7,7 +7,7 @@
 <a href="https://github.com/solorinpedro" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pedro-solorin-370185168/" target="_blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pedro-solorin-370185168" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
@@ -25,7 +25,6 @@ Hello everyone! I am a Systems and Computer Engineering student who is passionat
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
-
 
 - 🌱 I’m currently learning React and Node Js  
   
